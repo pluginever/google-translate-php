@@ -1,5 +1,5 @@
 {
-    "name": "stichoza/google-translate-php",
+    "name": "pluginever/google-translate-php",
     "description": "Free Google Translate API PHP Package",
     "keywords": ["google", "translate", "php"],
     "license": "MIT",
